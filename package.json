@@ -1,0 +1,8 @@
+{
+  "name": "iwritelists-weather",
+  "description": "Weather for IWriteLists, provided by Forecast.io",
+  "dependencies": {
+    "forecast": "*",
+    "cities": "1.x"
+  }
+}
